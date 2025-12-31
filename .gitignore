@@ -31,3 +31,8 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# Large data files
+lllll.com.txt
+allll.com.txt
+bllll.com.txt
